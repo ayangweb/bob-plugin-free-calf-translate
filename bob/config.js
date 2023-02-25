@@ -1,6 +1,6 @@
 // https://niutrans.com/NiuTransFrontPage/language/getAllLanguage?type=0&time=${+new Date()}
 const languages = [
-	["auto", "auto"],
+	["auto"],
 	["zh-Hans", "zh"],
 	["zh-Hant", "cht"],
 	["sq"],

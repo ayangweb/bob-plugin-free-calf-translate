@@ -8,6 +8,12 @@
 
 ### server 文件夹是 node.js 服务器，可以自行改造后在任意场景下使用！
 
+### bob 翻译插件大合集:
+
+> [阿里翻译插件(免秘钥)](https://github.com/bilibili-ayang/bob-plugin-free-ali-translate)
+
+> [小牛翻译插件(免秘钥)](https://github.com/bilibili-ayang/bob-plugin-free-calf-translate)
+
 使用截图如下：
 
 <img width="500" src="./image/zh-to-en.png" alt="zh-to-en">
