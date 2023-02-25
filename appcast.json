@@ -4,7 +4,7 @@
     {
       "version": "0.0.1",
       "desc": "初始版本",
-      "sha256": "5e9445e465c51ed7b79fb5ab0b084b875a869c87faafb10e99998dd0eb27e07c",
+      "sha256": "4da734c84894bd43aa88014a9e3ce3a8c54560903f5bbe8cdf72678185be7d89",
       "url": "https://github.com/bilibili-ayang/bob-plugin-free-calf-translate/releases/download/v0.0.1/bob-plugin-free-calf-translate.bobplugin",
       "minBobVersion": "0.5.0"
     }
